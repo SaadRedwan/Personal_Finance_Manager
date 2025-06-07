@@ -1,0 +1,20 @@
+# Build output 
+/build/ 
+*.out 
+*.exe 
+personal_finance_manager 
+ 
+# IDE & OS specific 
+.vscode/ 
+*.DS_Store 
+Thumbs.db 
+ 
+# User data 
+data/*.csv 
+data/*.dat 
+ 
+# Object files and libraries 
+*.o 
+*.a 
+*.so 
+*.dll 
